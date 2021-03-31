@@ -1,0 +1,8 @@
+1. Write following program
+Exercise 2-5:: Write the set of “*” characters so that they form a square, a rectangle, and a triangle.
+
+A) Normal or procedural way
+
+B) In object oriented way
+
+This (procedural) program works fine when the problem is fairly simple. When things get more complicated (e.g. if we are asked to produce hundreds or even thousands of different types of shapes, a procedural code might become harder and harder to write and maintain. In that case, I wonder if an object-orientated approach may help simplifying this? Something to come back to in future I guess. i.e. to rewrite the above program in an object oriented manner.
